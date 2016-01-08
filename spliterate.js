@@ -1,3 +1,6 @@
+#!/usr/bin/env node
+'use strict';
+
 var remark = require('remark');
 var visit = require('unist-util-visit');
 var remove = require('unist-util-remove');
