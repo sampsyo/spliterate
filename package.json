@@ -1,6 +1,6 @@
 {
   "name": "spliterate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "split literate-programming Markdown documents",
   "author": "Adrian Sampson <adrian@radbox.org>",
   "license": "MIT",
